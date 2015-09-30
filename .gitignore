@@ -1,0 +1,8 @@
+venv
+*.pyc
+staticfiles
+*~
+*.swp
+*#
+db.sqlite3
+ghostdriver.log
